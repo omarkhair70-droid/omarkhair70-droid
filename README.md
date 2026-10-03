@@ -4,7 +4,7 @@
 
 I build digital products end-to-end across **product direction, engineering, visual direction, and launch** — from native/mobile apps and full-stack business systems to Arabic-first web experiences and release operations.
 
-**Egypt** · [Portfolio](https://omar-khair-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/omar-khair-70) · [Email](mailto:omar.khair70@gmail.com)
+**Egypt** · [Portfolio](https://omar-khair-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/omar-khair-product-builder) · [Email](mailto:omar.khair70@gmail.com)
 
 ---
 
