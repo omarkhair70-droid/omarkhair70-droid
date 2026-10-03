@@ -16,7 +16,7 @@ I build digital products end-to-end across **product direction, engineering, vis
 | **[Nova](https://github.com/omarkhair-labs/nova)** | Native Kotlin Android social product · Django · realtime · messaging/calls · media systems | **Google Play closed testing** · [View listing](https://play.google.com/store/apps/details?id=com.omarkhair70.nova) |
 | **[WaveZero](https://github.com/omarkhair70-droid/wavezero)** | Flutter music product · native Kotlin/Media3 playback · local/offline music · release engineering | **V1 repository release-ready** |
 | **[Balcona Bar](https://github.com/omarkhair70-droid/balcona-bar)** | Hospitality operating system · ordering · cashier · KDS · owner workflows · payments | **Live staging system** · [Open demo](https://balcona-bar-staging-web.vercel.app) |
-| **[HILTECH](https://github.com/omarkhair70-droid/hiltech-eg-website)** | B2B product catalog · RFQ workflow · quotation/admin operations · Supabase | **Verified Next.js deployment** · [Open implementation](https://hiltech-eg-website.vercel.app) |
+| **[HILTECH](https://github.com/omarkhair-labs/hiltech-eg-website)** | B2B product catalog · RFQ workflow · quotation/admin operations · Supabase | **Verified Next.js deployment** · [Open implementation](https://hiltech-eg-website.vercel.app) |
 
 ---
 
